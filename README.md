@@ -1,4 +1,4 @@
-# SQL-PowerBI_BikeAnalytics
+# SQL-PowerBI_BikeSales
 
 ## Overview
 
